@@ -13,4 +13,4 @@ for i in range(5):
         print(meme_dict[word])
     else:
         # Kelime eşleşmiyorsa ne yapmalıyız?
-        print("bilmiyoruz")
+        print("aa")
